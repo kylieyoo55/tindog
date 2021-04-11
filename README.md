@@ -1,2 +1,9 @@
-# TinDog 
-![Tindog](https://lh3.googleusercontent.com/DExf_MXlCKFWf2XU8cgHQs3-s0k1q9J_cyPzzCs7mfKXr7xdiqtx9T-0l5zC7dv_4MMOql9irtgbjcJKwlhOxI8TlAGjSz31KrzZh1PZ2l5eDWlpWf7F7Fm0rz4YpOCPe26i52IKyaW8tJwPCavf1mBBESic575iwlN2KTocYYFLbumqjEd-exHZmBGIwnInpZ4dU2ZiYuoDFVnHJm47jRkxWr7dcdujBWYVrn9sFeG7StfmkR3rHG-JJwHRgJijLFRpSSdT_cEKimqASH0pVPLPv-uVhCNRQ5qNsQOKO0g96wnvaMjbBAZzwa6sJri9zeXd6pdZyFcWloKoKuSQzKVLt9zQ28BorDfJ1Dgysa7rJTwdLe6f41asyKKpLdygFWOL8H3R83_gg6CuLe1OUiWs1r8YCKh9O7TsUVNh7wWjP9OrL6qWqdUnPnpHFhXkQvCAF4ssgFJOsBnMvJArWJRMKWLspgUEuWJBYtzjWk2LnkxwdNXLmvwd3w9BG5MPlsh2KyfQdqgBEI2VNxQbpFQi_VpS4dpBfuVujaMGWEleMXTIjDcX52REr4EdLoL3h82fDlATjiQ2vT9P6Cl65bBAwVewCWhkRfxf8_6dr1FzjINoymmMVZ5EQEpTKf-D9yb_vzcPZbojNw3aWNkNB0MlZhn3HFY7LjM5m6odgsJIELO0M1Kip_cUdeXWOg=w1225-h741-no?authuser=0)
+# TinDog (MEME version of Tinder)
+##https://kylieyoo55.github.io/tingod/
+### HTML Practice
+
+![My image](https://github.com/kylieyoo55/tindog/blob/master/images/pic01.JPG?raw=true)
+![My image](https://github.com/kylieyoo55/tindog/blob/master/images/pic02.JPG?raw=true)
+![My image](https://github.com/kylieyoo55/tindog/blob/master/images/pic03.JPG?raw=true)
+![My image](https://github.com/kylieyoo55/tindog/blob/master/images/pic04.JPG?raw=true)
+
